@@ -7,3 +7,6 @@
 
 #include <SDKDDKVer.h>
 //header file changese
+//yep
+/hghrfty‚†‚„‚„‚’‚”‚‡‚„‚†‚‡‚ˆ‚„‚†‚‡‚„‚‡
+‚„‚†‚‡‚„‚†‚‡
